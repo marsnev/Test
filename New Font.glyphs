@@ -1,5 +1,5 @@
 {
-.appVersion = "3200";
+.appVersion = "3201";
 .formatVersion = 3;
 DisplayStrings = (
 H
@@ -38,7 +38,7 @@ name = Regular;
 glyphs = (
 {
 glyphname = H;
-lastChange = "2023-06-22 08:44:49 +0000";
+lastChange = "2023-06-22 08:48:52 +0000";
 layers = (
 {
 layerId = m01;
@@ -48,8 +48,8 @@ closed = 1;
 nodes = (
 (192,27,l),
 (439,27,l),
-(439,700,l),
-(192,700,l)
+(439,400,l),
+(192,400,l)
 );
 }
 );
