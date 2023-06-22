@@ -38,9 +38,21 @@ name = Regular;
 glyphs = (
 {
 glyphname = H;
+lastChange = "2023-06-22 08:44:49 +0000";
 layers = (
 {
 layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(192,27,l),
+(439,27,l),
+(439,700,l),
+(192,700,l)
+);
+}
+);
 width = 600;
 }
 );
