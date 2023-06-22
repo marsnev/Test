@@ -1,0 +1,21 @@
+{
+glyphname = H;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(192,27,l),
+(439,27,l),
+(439,400,l),
+(192,400,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 72;
+}
